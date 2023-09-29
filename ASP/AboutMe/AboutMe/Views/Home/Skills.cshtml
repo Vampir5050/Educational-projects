@@ -1,0 +1,18 @@
+﻿@model Person
+@{
+    ViewData["Title"] = "Skills";
+}
+
+<div>
+    <h1 class="text-center">Мои навыки:</h1>
+    <div>
+        <ul>
+            @foreach (var item in Model.Skills)
+            {
+                <li class="border border-dark p-2 mb-2">
+                    @item
+                </li>
+            }
+        </ul>
+    </div>
+</div>
