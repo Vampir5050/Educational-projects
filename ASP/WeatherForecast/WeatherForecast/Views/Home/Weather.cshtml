@@ -1,0 +1,74 @@
+﻿@model WeatherApiResponse
+@{
+    ViewData["Title"] = "Weather";
+}
+
+
+<div class="container">
+    @if (ViewBag.errorMessages != null)
+    {
+        <h1 class="text-danger">@ViewBag.errorMessages</h1>
+    }
+    else if (!string.IsNullOrWhiteSpace(@ViewBag.searchWeatherByCity))
+    {
+        <div class="container-fluid">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-4 col-sm-12 col-xs-12">
+                    <div class="card p-4">
+
+                        <div class="d-flex">
+                            <h6 class="flex-grow-1">@Model.name</h6>
+                            <h6>@DateTime.Now.ToString("HH:mm")</h6>
+                        </div>
+
+                        <div class="d-flex flex-column temp mt-5 mb-3">
+
+                            <h1 class="mb-0 font-weight-bold" id="heading"> @Convert.ToInt32(Model.main.temp)&deg; C </h1>
+                            @foreach(Weather item in Model.weather)
+                            {
+                                <span class="small grey">@item.main</span>
+                            }
+                            
+
+                        </div>
+
+                        <div class="d-flex">
+                            <div class="temp-details flex-grow-1">
+                                <p class="my-1">
+                                    <img src="https://i.imgur.com/B9kqOzp.png" height="17">
+
+                                    <span> @Convert.ToInt32(Model.wind.speed)  </span>
+                                </p>
+
+                                <p class="my-1">
+                                    <img src="https://cdn4.iconfinder.com/data/icons/air-conditioning/100/13-1024.png"  height="17" />
+                                    <span> @Model.main.humidity% </span>
+                                </p>
+
+                            </div>
+                            
+                            <div>
+                                @foreach(Weather item in Model.weather)
+                                {
+                                    var weatherIcon = $"https://openweathermap.org/img/wn/{item.icon}@2x.png";
+                                    <img src="@weatherIcon" width="100">
+                                }
+                               
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    }
+    else
+    {
+        <p>Not results</p>
+    }
+</div>
