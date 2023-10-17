@@ -1,0 +1,1550 @@
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\appsettings.Development.json
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\appsettings.json
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Movie.staticwebassets.runtime.json
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Movie.exe
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Movie.deps.json
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Movie.runtimeconfig.json
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Movie.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Movie.pdb
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.csproj.AssemblyReference.cache
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfoInputs.cache
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfo.cs
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CoreCompileInputs.cache
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.MvcApplicationPartsAssemblyInfo.cache
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cache
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cs
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\staticwebassets.build.json
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\staticwebassets.development.json
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\scopedcss\bundle\Movie.styles.css
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\scopedcss\projectbundle\Movie.bundle.scp.css
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\refint\Movie.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.pdb
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.genruntimeconfig.cache
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\ref\Movie.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Humanizer.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\MessagePack.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\NuGet.Common.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Remote\PV113\ASP.NET\2 - Movie\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CopyComplete
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\appsettings.Development.json
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\appsettings.json
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Movie.staticwebassets.runtime.json
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Movie.exe
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Movie.deps.json
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Movie.runtimeconfig.json
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Movie.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Movie.pdb
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Humanizer.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\MessagePack.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\NuGet.Common.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.csproj.AssemblyReference.cache
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfoInputs.cache
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfo.cs
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CoreCompileInputs.cache
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.MvcApplicationPartsAssemblyInfo.cache
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cache
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cs
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\staticwebassets.build.json
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\staticwebassets.development.json
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\scopedcss\bundle\Movie.styles.css
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\scopedcss\projectbundle\Movie.bundle.scp.css
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CopyComplete
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\refint\Movie.dll
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.pdb
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\Movie.genruntimeconfig.cache
+D:\Remote\PV113\ASP.NET\3 - Movie — 2\Movie\Movie\obj\Debug\net6.0\ref\Movie.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\appsettings.Development.json
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\appsettings.json
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Movie.staticwebassets.runtime.json
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Movie.exe
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Movie.deps.json
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Movie.runtimeconfig.json
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Movie.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Movie.pdb
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Humanizer.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\MessagePack.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\NuGet.Common.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.csproj.AssemblyReference.cache
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfoInputs.cache
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfo.cs
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CoreCompileInputs.cache
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.MvcApplicationPartsAssemblyInfo.cache
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cache
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cs
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\staticwebassets.build.json
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\staticwebassets.development.json
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\scopedcss\bundle\Movie.styles.css
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\scopedcss\projectbundle\Movie.bundle.scp.css
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CopyComplete
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\refint\Movie.dll
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.pdb
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\Movie.genruntimeconfig.cache
+D:\Remote\PV113\ASP.NET\4 - Movie — 3\Movie\Movie\obj\Debug\net6.0\ref\Movie.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\appsettings.Development.json
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\appsettings.json
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Movie.staticwebassets.runtime.json
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Movie.exe
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Movie.deps.json
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Movie.runtimeconfig.json
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Movie.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Movie.pdb
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Humanizer.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\MessagePack.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\NuGet.Common.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.csproj.AssemblyReference.cache
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfoInputs.cache
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfo.cs
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CoreCompileInputs.cache
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.MvcApplicationPartsAssemblyInfo.cache
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cache
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cs
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\staticwebassets.build.json
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\staticwebassets.development.json
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\scopedcss\bundle\Movie.styles.css
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\scopedcss\projectbundle\Movie.bundle.scp.css
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CopyComplete
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\refint\Movie.dll
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.pdb
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\Movie.genruntimeconfig.cache
+D:\Remote\PV113\ASP.NET\5 - Movie — 4\Movie\Movie\obj\Debug\net6.0\ref\Movie.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\appsettings.Development.json
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\appsettings.json
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Movie.staticwebassets.runtime.json
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Movie.exe
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Movie.deps.json
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Movie.runtimeconfig.json
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Movie.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Movie.pdb
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Humanizer.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\MessagePack.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\NuGet.Common.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.csproj.AssemblyReference.cache
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfoInputs.cache
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfo.cs
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CoreCompileInputs.cache
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.MvcApplicationPartsAssemblyInfo.cache
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cache
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cs
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\staticwebassets.build.json
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\staticwebassets.development.json
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\scopedcss\bundle\Movie.styles.css
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\scopedcss\projectbundle\Movie.bundle.scp.css
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CopyComplete
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\refint\Movie.dll
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.pdb
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\Movie.genruntimeconfig.cache
+D:\Remote\PV113\ASP.NET\6 - HtmlHelper,TagHelper\Movie\Movie\obj\Debug\net6.0\ref\Movie.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\appsettings.json
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.staticwebassets.runtime.json
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.exe
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.deps.json
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.runtimeconfig.json
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.pdb
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Humanizer.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\MessagePack.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.csproj.AssemblyReference.cache
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfoInputs.cache
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfo.cs
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CoreCompileInputs.cache
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cache
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cs
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets\msbuild.Movie.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets\msbuild.build.Movie.props
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movie.props
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movie.props
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\scopedcss\bundle\Movie.styles.css
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\scopedcss\projectbundle\Movie.bundle.scp.css
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CopyComplete
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\refint\Movie.dll
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.pdb
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.genruntimeconfig.cache
+C:\Users\f.abdullayev\Desktop\7 - Pagination\Movie\Movie\obj\Debug\net6.0\ref\Movie.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\appsettings.Development.json
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\appsettings.json
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.staticwebassets.runtime.json
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.exe
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.deps.json
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.runtimeconfig.json
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Movie.pdb
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Humanizer.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\MessagePack.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Common.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.csproj.AssemblyReference.cache
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfoInputs.cache
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.AssemblyInfo.cs
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CoreCompileInputs.cache
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cache
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.RazorAssemblyInfo.cs
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets\msbuild.Movie.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets\msbuild.build.Movie.props
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movie.props
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movie.props
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets.build.json
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\staticwebassets.development.json
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\scopedcss\bundle\Movie.styles.css
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\scopedcss\projectbundle\Movie.bundle.scp.css
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.csproj.CopyComplete
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\refint\Movie.dll
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.pdb
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\Movie.genruntimeconfig.cache
+D:\Study\С#\Lesons\ASP\7 - Pagination\Movie\Movie\obj\Debug\net6.0\ref\Movie.dll

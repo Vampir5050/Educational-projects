@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Movie",
+    "\\Movie\\TagHelpers",
+    "\\Movie\\Views",
+    "\\Movie\\Views\\Home",
+    "\\Movie\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Movie\\TagHelpers\\MovieDetailsTagHelper.cs",
+  "PreviewInSolutionExplorer": false
+}
