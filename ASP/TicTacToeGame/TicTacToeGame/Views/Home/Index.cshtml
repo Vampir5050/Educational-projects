@@ -1,0 +1,21 @@
+﻿@model Game
+
+<table>
+    @for (int i = 0; i < 3; i++)
+    {
+        <tr>
+            @for (int j = 0; j < 3; j++)
+            {
+                <td>@Model.Board[i, j]</td>
+            }
+        </tr>
+    }
+</table>
+
+@for (int i = 0; i < 3; i++)
+{
+    @for (int j = 0; j < 3; j++)
+    {
+        <button onclick="location.href='@Url.Action("MakeMove", "Game", new { row = i, col = j })'">@i, @j</button>
+    }
+}

@@ -1,4 +1,4 @@
-﻿@model MovieApiResponse
+﻿@model SearchViewModel
 @{
     ViewData["Title"] = "Search";
 }
@@ -7,36 +7,73 @@
 
 
 <div class="container">
-    @if (ViewBag.errorMessages !=null)
+    @if (Model.Error != null)
     {
-        <h1 class="text-danger">@ViewBag.errorMessages</h1>
-    }else if (!string.IsNullOrWhiteSpace(@ViewBag.searchMovie))
+        <h1 class="text-danger">@Model.Error</h1>
+    }
+    else if (!string.IsNullOrWhiteSpace(@Model.Title))
     {
-        <p>Search results by title : @ViewBag.searchMovie  (@Model.totalResults)</p>
+        <p>Search results by title : @Model.Title  (@Model.TotalResults)</p>
 
         <div class="row">
-            @foreach (Cinema item in @Model.Search)
+            @*@foreach (Cinema item in @Model.Movies)
             {
-               <div class="col-3">
+                <div class="col-3">
                     <partial name="_MovieCardPartial" model="@item"></partial>
-                   </div>
+                </div>
+            }*@
 
-
-                @*<div class="card col-3" style="width: 18rem;">
-                    <img src="@item.Poster" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">@item.Title (@item.Year)</h5>
-                        <p class="card-text">Janre : @item.Type</p>
-                        <a asp-controller="Home" asp-action="Movie" asp-route-id="@item.imdbID" class="btn btn-primary">Detail</a>
-                    </div>
-                </div>*@
-
-
-
-            }
+             <partial name="_MovieListPartial" model="@Model.Movies"></partial>
         </div>
 
-        @*<p>@ViewBag.Result</p>*@
+        <div class="d-flex justify-content-center mt-4">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination">
+
+
+                    @if (Model.CurrentPage > 1)
+                    {
+                        <li class="page-item">
+                            <a class="page-link"
+                       asp-action="Search"
+                       asp-controller="Home"
+                       asp-route-page="@(Model.CurrentPage-1)"
+                       asp-route-title="@Model.Title">Previous</a>
+                        </li>
+                    }
+
+                    @for (int i = @Model.CurrentPage - @Model.CountViewPage; i <= @Model.CurrentPage + @Model.CountViewPage; i++)
+                    {
+                        if (i > 0 && i <= @Model.TotalPages)
+                        {
+                            <li class="page-item @(i==Model.CurrentPage ? "active" : ' ')">
+                                <a class="page-link"
+                       asp-action="Search"
+                       asp-controller="Home"
+                       asp-route-page="@i"
+                       asp-route-title="@Model.Title">@i</a>
+                            </li>
+                        }
+
+                    }
+
+
+
+                    @if (Model.TotalPages > Model.CurrentPage)
+                    {
+                        <li class="page-item">
+                            <a class="page-link"
+                       asp-action="Search"
+                       asp-controller="Home"
+                       asp-route-page="@(Model.CurrentPage+1)"
+                       asp-route-title="@Model.Title">Next</a>
+                        </li>
+                    }
+
+                </ul>
+            </nav>
+        </div>
+
     }
     else
     {
@@ -45,3 +82,41 @@
 </div>
 
 
+
+<button id="buttonNext" class="btn btn-primary">Next</button>
+
+
+
+<partial name="_ModalWindowPartial"></partial>
+
+
+@section Farid{
+    <script>
+        
+      
+        initPagination(@Model.CurrentPage,@Model.TotalPages,  '@Url.ActionLink("SearchResult","Home",new {title = Model.Title})');
+        
+        //let page = @Model.CurrentPage;
+        //let myTitle = '@Model.Title';
+      
+        //$('#buttonNext').click(async function() {
+        //    page++;
+        //  let response = await fetch(`/Home/SearchResult?page=${page}&title=${myTitle}`);
+        //  let result = await response.text();
+        //  console.log(result);
+        //  $('.row').append(result);
+        //});
+
+
+
+
+
+
+
+
+
+
+
+
+    </script>
+}

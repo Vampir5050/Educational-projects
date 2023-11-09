@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Movie.Models;
 using Movie.Services;
+using Movie.ViewModels;
 using System.Diagnostics;
 
 namespace Movie.Controllers
@@ -8,15 +9,18 @@ namespace Movie.Controllers
     public class HomeController : Controller
     {
         private readonly IMovieApiService movieApiService;
+        private readonly IRecentMoiveStorage recentMoiveStorage;
 
-        public HomeController(IMovieApiService movieApiService)
+        public HomeController(IMovieApiService movieApiService,IRecentMoiveStorage recentMoiveStorage)
         {
             this.movieApiService = movieApiService;
+            this.recentMoiveStorage = recentMoiveStorage;
         }
 
         public async Task<IActionResult> Index()
         {
-            return View();
+            var result = recentMoiveStorage.GetRecent();/////////////////////////////////
+            return View(result);
 
 
             //List<string> arr = new List<string>();
@@ -31,6 +35,7 @@ namespace Movie.Controllers
             try
             {
                 cinema = await movieApiService.SearchByIdAsync(id);
+                recentMoiveStorage.Add(cinema);////////////////////////////////////////////
             }
             catch (Exception ex)
             {
@@ -40,23 +45,90 @@ namespace Movie.Controllers
             return View(cinema);
         }
 
-
-        public async Task<IActionResult> Search(string title)
+        public async Task<IActionResult> MovieModal(string id)
         {
-            MovieApiResponse result = null;
+            Cinema cinema = null;
 
             try
             {
-                 result = await movieApiService.SearchByTitleAsync(title);
+                cinema = await movieApiService.SearchByIdAsync(id);
+                recentMoiveStorage.Add(cinema);////////////////////////////////////////////
             }
             catch (Exception ex)
             {
+
                 ViewBag.errorMessages = ex.Message;
             }
-
-            ViewBag.searchMovie = title;
-            return View(result);
+            return PartialView("_MovieModalPartial",cinema);
         }
+
+
+
+        public async Task<IActionResult> SearchResult(string title, int page = 1, int countViewPage = 4)
+        {
+            SearchViewModel searchViewModel = new SearchViewModel();
+
+
+            try
+            {
+                MovieApiResponse result = await movieApiService.SearchByTitleAsync(title, page); 
+                searchViewModel.Movies = result.Cinemas; 
+            }
+            catch (Exception ex)
+            {
+                searchViewModel.Error = ex.Message;
+            }
+
+            return PartialView("_MovieListPartial", searchViewModel.Movies);
+        }
+
+        public async Task<IActionResult> Search(string title,int page = 1,int countViewPage = 4)
+        {
+
+            SearchViewModel searchViewModel = new SearchViewModel();
+        
+
+            try
+            {
+                MovieApiResponse result = await movieApiService.SearchByTitleAsync(title, page);
+
+                searchViewModel.Title = title;
+                searchViewModel.CountViewPage = countViewPage;
+                searchViewModel.Movies = result.Cinemas;
+                searchViewModel.Response = result.Response;
+                searchViewModel.Error = result.Error;
+                searchViewModel.CurrentPage = page;
+                searchViewModel.TotalResults = result.TotalResults;
+                searchViewModel.TotalPages = (int)Math.Ceiling(result.TotalResults / 10.0);
+            }
+            catch (Exception ex)
+            {
+                searchViewModel.Error = ex.Message;
+            }
+             
+            return View(searchViewModel);
+        }
+
+
+        //public async Task<IActionResult> Search(string title,int page = 1)
+        //{
+        //    MovieApiResponse result = null;
+
+        //    try
+        //    {
+        //         result = await movieApiService.SearchByTitleAsync(title, page);
+        //        // 53  5.3
+        //        ViewBag.TotalPages = Math.Ceiling(result.TotalResults / 10.0);
+        //        ViewBag.CurrentPage = page;
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        ViewBag.errorMessages = ex.Message;
+        //    }
+
+        //    ViewBag.searchMovie = title;
+        //    return View(result);
+        //}
 
         public IActionResult Privacy()
         {

@@ -1,28 +1,48 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.AspNetCore.Mvc.Routing;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Microsoft.AspNetCore.Razor.TagHelpers;
 using Movie.Models;
 
 namespace Movie.TagHelpers
 {
+    public enum MovieDetailsType
+    {
+        Full,Modal
+    }
 
     [HtmlTargetElement("a",Attributes ="movie")]
     public class MovieDetailsTagHelper : TagHelper
     {
+        private readonly IUrlHelperFactory urlHelperFactory;
+
+        public MovieDetailsTagHelper(IUrlHelperFactory urlHelperFactory)
+        {
+            this.urlHelperFactory = urlHelperFactory;
+        }
         public Cinema Movie { get; set; }
+        public MovieDetailsType MyType { get; set; }
+
+        [ViewContext]
+        [HtmlAttributeNotBound]
+        public ViewContext Context { get; set; }
         public override void Process(TagHelperContext context, TagHelperOutput output)
         {
-           /// if (Movie!=null)
-           // {
+            IUrlHelper urlHelper = urlHelperFactory.GetUrlHelper(Context);
+
                 output.TagName = "a";
                 output.Attributes.Add("class", "btn btn-primary");
-                output.Attributes.Add("href", $"/Home/Movie/{Movie.imdbID}");
-              
-
-                //<i class="fa-solid fa-gamepad"></i>
-                //<i class="fa-solid fa-tv"></i>
-                //< i class="fa-solid fa-film"></i>
+            //output.Attributes.Add("href", $"/Home/Movie/{Movie.imdbID}");
 
 
+            string url;
+           
+
+
+            if (MyType == MovieDetailsType.Full)
+            {
+                url = urlHelper.ActionLink("Movie", "Home", new { id = Movie.imdbID });
                 var i = new TagBuilder("i");
 
 
@@ -35,7 +55,17 @@ namespace Movie.TagHelpers
 
                 output.Content.AppendHtml(i);
                 output.Content.Append(" Details");
-            //}
+            }
+            else
+            {
+                url = urlHelper.ActionLink("MovieModal", "Home", new { id = Movie.imdbID });
+                var i = new TagBuilder("i");
+                    i.AddCssClass("fa-solid fa-eye");
+                output.Content.AppendHtml(i);
+            }
+
+            output.Attributes.Add("href", url);
+
         }
     }
 }
